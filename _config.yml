@@ -1,0 +1,23 @@
+name: TestBlogAPronger
+favicon: null
+layout_spectrum: 0.6929147592745721
+typography_spectrum: 0.21964359492994845
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8866629551630467
+  lightness: 0.20766166667453945
+  saturation: 0.4822533398400992
+  rhythmicContrast: 0.12961606727913022
+purpose: []
